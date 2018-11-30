@@ -1,0 +1,24 @@
+{
+  "name": "recherche-totoz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-e/recherche-totoz-js.git"
+  },
+  "author": "Nicolas Even",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/n-e/recherche-totoz-js/issues"
+  },
+  "homepage": "https://github.com/n-e/recherche-totoz-js#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "xml-js": "^1.6.8"
+  }
+}
